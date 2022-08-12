@@ -24,10 +24,10 @@ function Skills(props) {
     return (
         <div>
             <div id='skilz'>
-                &nbsp;<p>{skills.programming.name} &nbsp;{skills.programming.langs}</p>
-                &nbsp;<p id='scripts'>{skills.scripting.name} &nbsp;&nbsp;&nbsp;{skills.scripting.langs}</p>
-                &nbsp;<p id='tools'>{skills.tools.name} &nbsp;&nbsp;{skills.tools.langs}</p>
-                &nbsp;<p id="ops">{skills.operating.name} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{skills.operating.langs}</p>
+                <p>{skills.programming.name} &nbsp;{skills.programming.langs}</p>
+                <p id='scripts'>{skills.scripting.name} &nbsp;&nbsp;&nbsp;{skills.scripting.langs}</p>
+                <p id='tools'>{skills.tools.name} &nbsp;&nbsp;{skills.tools.langs}</p>
+                <p id="ops">{skills.operating.name} &nbsp;&nbsp;&nbsp;{skills.operating.langs}</p>
             </div>
         </div>
     );

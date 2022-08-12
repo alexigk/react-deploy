@@ -1,5 +1,5 @@
 #myProjects{
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 .prj{
@@ -10,7 +10,7 @@
 }
 
 .prj1{
-    padding: 10px;
+    padding: 20px;
 }
 
 .prj:hover{
@@ -24,8 +24,16 @@
     color: rgb(147, 234, 240);
 }
 
+#music{
+    margin-left: -10px;
+}
+
 #login{
     margin-left: -30px;
+}
+
+#buffer{
+    margin-left: -15px;
 }
 
 #compiler{

@@ -2,15 +2,23 @@
     font-size: 18px;
   }
 
+  #skilz{
+    margin-top: 40px;
+  }
+
+  p{
+    padding: 10px;
+  }
+
   #scripts{
-    margin-left: -170px;
+    margin-left: -195px;
   }
 
   #tools{
-    margin-left: -40px;
+    margin-left: -45px;
   }
 
   #ops{
-    margin-left: -175px;
+    margin-left: -205px;
   }
   

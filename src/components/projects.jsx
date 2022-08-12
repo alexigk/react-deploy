@@ -15,7 +15,7 @@ const projects = {
     buffer:{
         name: "Buffer Overflow Attack/",
         url: "https://github.com/alexigk/Buffer-overflow-attack",
-        description: "A buffer overflow attack excersice in C."
+        description: "A buffer overflow attack exersice in C."
     },
     compiler:{
         name: "Alpha Compiler/",

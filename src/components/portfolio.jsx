@@ -8,7 +8,7 @@ import { useState } from "react";
 
 
 const port = {
-    name: 'Alexandros Gekas',
+    name: 'Alexandros Gkekas',
     work: 'Front End Developer',
     navBar:[{key:"About", name:".about"},{key:"Projects", name:".projects"},{key:"Skills", name:".skills"}]
 }
