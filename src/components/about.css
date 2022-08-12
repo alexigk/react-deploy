@@ -1,0 +1,23 @@
+#info{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#icons{
+    font-size: xx-large;
+}
+
+#contactme{
+    margin-top: 50px;
+}
+
+.myIcons{
+    cursor: pointer;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+.myIcons:hover{
+    color: rgb(0, 146, 156);
+}

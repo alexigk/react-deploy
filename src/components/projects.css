@@ -1,0 +1,33 @@
+#myProjects{
+    margin-top: 20px;
+}
+
+.prj{
+    color: white;
+    font-size: 22px;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+
+.prj1{
+    padding: 10px;
+}
+
+.prj:hover{
+    cursor: pointer;
+    color: rgb(0, 146, 156);
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.description{
+    color: rgb(147, 234, 240);
+}
+
+#login{
+    margin-left: -30px;
+}
+
+#compiler{
+    margin-left: -60px;
+}
